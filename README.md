@@ -1,4 +1,6 @@
-# covid-tracker
+# Covid Tracker (Vue and Tailwind)
+
+> My first Vue project according to a tutorial by Traversy Media: [Build a Covid Tracker App With Vue.js & Tailwind](https://youtu.be/m-MAIpnH9ag)
 
 ## Project setup
 ```
@@ -20,5 +22,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+[Peter R. Stuhlmann](https://peter-stuhlmann-webentwicklung.de)
